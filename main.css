@@ -1,0 +1,19 @@
+body {
+	background-color: midnightblue;
+	color: midnightblue;
+}
+
+img {
+	min-width: 400px;
+}
+
+td {
+	font-size: 18px;
+}
+
+.food-types {
+	margin: auto;
+	text-align: center;
+	text-transform: capitalize;
+	font-weight: bold;
+}
